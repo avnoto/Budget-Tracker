@@ -11,7 +11,7 @@ A Budget Tracker application that allows for offline access and functionality.
 
 ## Installation
 
-Deployed application:
+Deployed application: https://avnoto-budget-tracker.herokuapp.com/
 
 ## Usage
 
